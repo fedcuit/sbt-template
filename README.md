@@ -1,4 +1,4 @@
-SBT tempalte project
+SBT template project
 ============
 
 A SBT template project for quick start
