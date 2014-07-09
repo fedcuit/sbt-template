@@ -7,6 +7,7 @@ Following the below steps to setup a sbt project quickly:
 
 1. Install Scala 2.10.2 (Download and add bin folder to path)
  If you already have Scala installed, just modify `build.sbt` file with your Scala version.
+
  ``` sbt
   scalaVersion := "<Scala_verion_on_your_machine>"
  ```
