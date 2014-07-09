@@ -10,6 +10,7 @@ Following the below steps to setup a sbt project quickly:
 3. Run `sbt gen-idea` in root folder
   ![generate intelliJ project](https://raw.githubusercontent.com/fedcuit/transfer-station/master/gen-idea.png "sbt gen-idea")
 4. Open root folder in IntelliJ
+
  ![open sbt project](https://raw.githubusercontent.com/fedcuit/transfer-station/master/open.png "import sbt project")
  ![choose sbt project](https://raw.githubusercontent.com/fedcuit/transfer-station/master/choose.png "choose sbt project")
 
