@@ -1,4 +1,4 @@
-package io.github.fedcuit.demo
+package scala
 
 import org.scalatest.FunSpec
 
