@@ -1,0 +1,12 @@
+target/
+lib_managed/
+src_managed/
+project/boot/
+node_modules/
+src/main/webapp/css/
+.history
+.cache
+.idea
+.idea_modules
+.DS_Store
+*.iml
